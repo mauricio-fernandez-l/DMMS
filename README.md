@@ -7,7 +7,7 @@ Dozent: Dr.-Ing. Mauricio Fernández
 ## Inhaltsverzeichnis
 
 Vorlesung
-* [01 Einführung](Vorlesung/01_Einfuehrung.ipynb)
+* [01 Einführung in digitale Zwillinge](Vorlesung/01_Einfuehrung.ipynb)
 
 Übung
 * [01 Materialmodelle mittels künstliche neuronale Netze](Uebung/01_Materialmodell.ipynb)
