@@ -3,6 +3,8 @@
 In dieser Ablage finden Sie alle Inhalte zur Veranstaltung *Einführung in digitale Zwillinge*.
 
 Dozent: Dr.-Ing. Mauricio Fernández
+* Email: mauricio.fernandez.lb@gmail.com
+* [Google Scholar](https://scholar.google.com/citations?user=pwQ_YNEAAAAJ&hl=de)
 
 ## Inhaltsverzeichnis
 
@@ -15,8 +17,8 @@ Vorlesung
 ## Online Verwendung
 
 Um die Inhalte online **anzusehen**, öffnen Sie die Ablage mit 
-[nbviewer](https://nbviewer.jupyter.org/github/mauricio-fernandez-l/Einfuehrung-in-digitale-Zwillinge/tree/master/)
-[![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/mauricio-fernandez-l/Einfuehrung-in-digitale-Zwillinge/tree/master/)
+[nbviewer](https://nbviewer.jupyter.org/github/mauricio-fernandez-l/Einfuehrung-in-digitale-Zwillinge/tree/master/?flush_cache=true)
+[![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/mauricio-fernandez-l/Einfuehrung-in-digitale-Zwillinge/tree/master/?flush_cache=true)
 
 Um die Inhalte online **interaktiv zu verwenden**, öffnen Sie die Ablage mit
 [Binder](https://mybinder.org/v2/gh/mauricio-fernandez-l/Einfuehrung-in-digitale-Zwillinge/master)
