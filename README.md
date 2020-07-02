@@ -40,6 +40,14 @@ jupyter-notebook
 ```
 4) Navigiere zum Ordner `repo` und öffne gewünschtes Dokument.
 
+## Erstellung von Präsentationsdateien
+
+Zur Erstellung der Präsentationsdateien, navigiere zum Ordner `Vorlesung` und führe aus
+
+```
+python slides.py
+```
+
 ## Externe Inhalte
 
 Einführung in Python 3 mit Anwendungen in Fahrzeugtechnik
