@@ -12,6 +12,8 @@ c2.png
 	Mauricio Fernández
 dz.jpg
 	https://www.fescreen-sim.de/
+dz.png
+	Mauricio Fernández
 e_s.png
 	Mauricio Fernández
 e_svm.png
