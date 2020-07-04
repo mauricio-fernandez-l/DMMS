@@ -1,15 +1,12 @@
-# Einführung in digitale Zwillinge
+# Datengetriebene Modellierung mechanischer Systemen
 
-In dieser Ablage finden Sie alle Inhalte zur Veranstaltung *Einführung in digitale Zwillinge*.
+In dieser Ablage finden Sie alle Übungsinhalte zur Veranstaltung *Datengetriebene Modellierung mechanischer Systemen*.
 
 Dozent: Dr.-Ing. Mauricio Fernández
 * Email: mauricio.fernandez.lb@gmail.com
 * [Google Scholar](https://scholar.google.com/citations?user=pwQ_YNEAAAAJ&hl=de)
 
 ## Inhaltsverzeichnis
-
-Vorlesung
-* [01 Einführung in digitale Zwillinge](Vorlesung/01_Einfuehrung.ipynb)
 
 Übung
 * [01 Materialmodelle mittels künstliche neuronale Netze](Uebung/01_Materialmodell.ipynb)
