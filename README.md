@@ -1,6 +1,6 @@
-# Datengetriebene Modellierung mechanischer Systemen
+# Datengetriebene Modellierung mechanischer Systeme
 
-In dieser Ablage finden Sie alle Übungsinhalte zur Veranstaltung *Datengetriebene Modellierung mechanischer Systemen*.
+In dieser Ablage finden Sie alle Übungsinhalte zur Veranstaltung *Datengetriebene Modellierung mechanischer Systeme*.
 
 Dozent: Dr.-Ing. Mauricio Fernández
 * Email: mauricio.fernandez.lb@gmail.com
